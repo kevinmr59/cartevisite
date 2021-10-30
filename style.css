@@ -1,0 +1,19 @@
+#text
+{
+    display: inline-block;
+    width: 28%;
+    height: 234px;
+    border: solid black 1px;
+    background-image: url("carte.jpg");
+
+
+}
+ul
+{
+    list-style-type: none;
+    margin-top: 1rem;
+}
+h1
+{
+    text-align: center;
+}
